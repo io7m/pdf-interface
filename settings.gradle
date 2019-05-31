@@ -1,0 +1,3 @@
+include ":com.io7m.pdf.api"
+include ":com.io7m.pdf.pdfviewer"
+include ":com.io7m.pdf.views"

@@ -1,0 +1,5 @@
+dependencies {
+  api project(":com.io7m.pdf.api")
+
+  implementation libraries.kotlinStdlib
+}

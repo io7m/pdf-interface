@@ -1,0 +1,7 @@
+dependencies {
+  api project(":com.io7m.pdf.api")
+
+  api libraries.androidXAppCompat
+
+  implementation libraries.kotlinStdlib
+}
